@@ -47,3 +47,21 @@ int main() {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihanulriyan&show_icons=true&locale=en&layout=compact" alt="shihanulriyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihanulriyan&show_icons=true&locale=en" alt="shihanulriyan" /></p>
+
+
+
+<!-- GitHub Stats -->
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&theme=radical" alt="Top Languages" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&theme=radical" alt="GitHub Streak" />
+  </p>
+</div>
+
