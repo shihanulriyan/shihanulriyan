@@ -1,9 +1,35 @@
-<h1 align="center">Hi 👋, I'm Riyan</h1>
-<h3 align="center">A passionate C++ programmer from Bangladesh</h3>
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihanulriyan&label=Profile%20views&color=0e75b6&style=flat" alt="shihanulriyan" /> </p>
+int main() {
+    cout << "Assalamu Alaikum, World! I am Shihanul Riyan.\n";
+    return 0;
+}
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihanulriyan" alt="shihanulriyan" /></a> </p>
+<!-- Introduction -->
+<hr/>
+<p align="center">
+  <br>
+  <em>
+    「 Hello, I'm Shihanul Riyan, a passionate Programmer pursuing a diploma in Computer Technology at Moulvibazar Polytechnic Institute. I thrive on coding challenges and solving real-world problems with technology. C/C++ enthusiast with a keen interest in AI/ML development. 」
+  </em>
+  <br>
+</p>
+<hr/>
+
+<!-- Typing Animation -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Shihanul+Riyan;I+aspire+to+be+a+Software+Engineer;Currently+learning+advanced+DSA;Passionate+about+problem-solving+and+programming;">
+  </a>
+</h2>
+
+<!-- Overview Section -->
+<p align="center">
+  💻 Passionate web developer | Problem solver | Continuous learner
+</p>
 
 - 💬 Ask me about **c++ ,data structures and algorithms**
 
