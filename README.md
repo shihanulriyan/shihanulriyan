@@ -60,18 +60,21 @@ int main() {
 
 
 <!-- =========================
-     GITHUB STATS (CUSTOM COLORS)
+     GITHUB STATS (ANIMATED STYLE)
      ========================= -->
 <h2 align="center">🚀 GitHub Insights</h2>
 
 <table align="center">
   <tr>
-    <!-- Top Languages প্রথমে -->
+    <!-- Top Languages (animated GIF style) -->
     <td colspan="2" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB&count_private=true&hide_border=true"
         alt="Top Languages"
         height="180"
+        style="transition: transform 0.5s; cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.05)';"
+        onmouseout="this.style.transform='scale(1)';"
       />
     </td>
   </tr>
@@ -79,18 +82,23 @@ int main() {
     <!-- Overall GitHub Stats -->
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB"
+        src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB&hide_border=true"
         alt="GitHub Stats"
         height="180"
+        style="transition: transform 0.5s; cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.05)';"
+        onmouseout="this.style.transform='scale(1)';"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&background=0D1117&ring=FFA116&fire=FFA116&currStreakLabel=3776AB&sideNums=FFFFFF&currStreakNum=FFA116&sideLabels=3776AB&dates=AAAAAA"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&background=0D1117&ring=FFA116&fire=FFA116&currStreakLabel=3776AB&sideNums=FFFFFF&currStreakNum=FFA116&sideLabels=3776AB&dates=AAAAAA&hide_border=true"
         alt="GitHub Streak"
         height="180"
+        style="transition: transform 0.5s; cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.05)';"
+        onmouseout="this.style.transform='scale(1)';"
       />
     </td>
   </tr>
 </table>
-
