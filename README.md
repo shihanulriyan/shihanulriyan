@@ -52,10 +52,7 @@ int main() {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
- <!-- LeetCode Logo Colored -->
-<svg width="40" height="40" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#FFA116" d="M...Z" /> <!-- মূল LeetCode path, শুধু fill রঙ পরিবর্তন -->
-</svg>
+ <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40" height="40" alt="LeetCode"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
