@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Assalamu Alaikum, World! I am Shihanul Riyan.\n";
+    cout << "Assalamu Alaikum, World! I am Shihanul Islam Riyan.\n";
     return 0;
 }
 ```
@@ -27,12 +27,12 @@ int main() {
 </h2>
 
 <!-- =========================
-     OVERVIEW SECTION FLEXBOX
+     OVERVIEW SECTION WITH PROGRAMMER PNG
      ========================= -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
 
-  <!-- Programmer Image -->
-  <img src="https://raw.githubusercontent.com/iamsahebgurung/programmer-avatar/main/programmer.png"
+  <!-- Programmer PNG Image -->
+  <img src="https://raw.githubusercontent.com/DevTeco/programmer-avatar/main/programmer.png"
        alt="Programmer" width="100" />
 
   <!-- Overview Text -->
@@ -41,6 +41,7 @@ int main() {
   </p>
 
 </div>
+
 
 - 💬 Ask me about **c c++ ,data structures and algorithms**
 
