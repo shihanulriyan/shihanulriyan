@@ -26,7 +26,25 @@ int main() {
   </a>
 </h2>
 
-<!-- Overview Section --> <p align="center"> 💻 Passionate web developer | Problem solver | Continuous learner </p>
+<!-- =========================
+     OVERVIEW SECTION WITH PROGRAMMER IMAGE
+     ========================= -->
+<table align="center">
+  <tr>
+    <!-- Programmer Image -->
+    <td>
+      <img src="https://raw.githubusercontent.com/iamsahebgurung/programmer-avatar/main/programmer.png"
+           alt="Programmer" width="100" />
+    </td>
+
+    <!-- Overview Text -->
+    <td style="padding-left: 15px; vertical-align: middle;">
+      <p align="center">
+        💻 Passionate web developer | Problem solver | Continuous learner
+      </p>
+    </td>
+  </tr>
+</table>
 
 - 💬 Ask me about **c c++ ,data structures and algorithms**
 
