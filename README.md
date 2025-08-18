@@ -13,7 +13,7 @@ int main() {
 <p align="center">
   <br>
   <em>
-    「 Hello, I'm Shihanul Riyan, a passionate Programmer pursuing a diploma in Computer Technology at Moulvibazar Polytechnic Institute. I thrive on coding challenges and solving real-world problems with technology. C/C++ enthusiast with a keen interest in AI/ML development. 」
+    「 Hello, I'm Shihanul Islam Riyan, a passionate Programmer pursuing a diploma in Computer Technology at Moulvibazar Polytechnic Institute. I thrive on coding challenges and solving real-world problems with technology. C/C++ enthusiast with a keen interest in AI/ML development. 」
   </em>
   <br>
 </p>
