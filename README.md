@@ -27,24 +27,20 @@ int main() {
 </h2>
 
 <!-- =========================
-     OVERVIEW SECTION WITH PROGRAMMER IMAGE
+     OVERVIEW SECTION FLEXBOX
      ========================= -->
-<table align="center">
-  <tr>
-    <!-- Programmer Image -->
-    <td>
-      <img src="https://raw.githubusercontent.com/iamsahebgurung/programmer-avatar/main/programmer.png"
-           alt="Programmer" width="100" />
-    </td>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
 
-    <!-- Overview Text -->
-    <td style="padding-left: 15px; vertical-align: middle;">
-      <p align="center">
-        💻 Passionate web developer | Problem solver | Continuous learner
-      </p>
-    </td>
-  </tr>
-</table>
+  <!-- Programmer Image -->
+  <img src="https://raw.githubusercontent.com/iamsahebgurung/programmer-avatar/main/programmer.png"
+       alt="Programmer" width="100" />
+
+  <!-- Overview Text -->
+  <p style="margin: 0; font-size: 16px;">
+    💻 Passionate web developer | Problem solver | Continuous learner
+  </p>
+
+</div>
 
 - 💬 Ask me about **c c++ ,data structures and algorithms**
 
