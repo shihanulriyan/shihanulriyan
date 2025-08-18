@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Assalamu Alaikum, World! I am Shihanul Islam Riyan.\n";
+    cout << "Assalamu Alaikum, World! I am Shihanul Islam Rian.\n";
     return 0;
 }
 ```
@@ -13,7 +13,7 @@ int main() {
 <p align="center">
   <br>
   <em>
-    「 Hello, I'm Shihanul Islam Riyan, a passionate Programmer pursuing a diploma in Computer Technology at Moulvibazar Polytechnic Institute. I thrive on coding challenges and solving real-world problems with technology. C/C++ enthusiast with a keen interest in AI/ML development. 」
+    「 Hello, I'm Shihanul Islam Rian, a passionate Programmer pursuing a diploma in Computer Technology at Moulvibazar Polytechnic Institute. I thrive on coding challenges and solving real-world problems with technology. C/C++ enthusiast with a keen interest in AI/ML development. 」
   </em>
   <br>
 </p>
@@ -52,7 +52,10 @@ int main() {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.svg" alt="LeetCode" width="40" height="40"/>
+ <!-- LeetCode Logo Colored -->
+<svg width="40" height="40" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#FFA116" d="M...Z" /> <!-- মূল LeetCode path, শুধু fill রঙ পরিবর্তন -->
+</svg>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
