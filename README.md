@@ -52,25 +52,23 @@ int main() {
 
 
 
-
 <!-- =========================
      GITHUB STATS (STYLED)
      ========================= -->
 <h2 align="center">🚀 GitHub Insights</h2>
 
-<!-- Card container: table ব্যবহার করেছি যাতে GitHub-এ লে-আউট ভাঙে না -->
 <table align="center">
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&theme=tokyonight"
         alt="GitHub Stats"
         height="180"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&theme=tokyonight"
         alt="Top Languages"
         height="180"
       />
@@ -79,7 +77,7 @@ int main() {
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&theme=radical"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&theme=tokyonight"
         alt="GitHub Streak"
         height="180"
       />
