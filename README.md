@@ -54,36 +54,31 @@ int main() {
 
 
 <!-- =========================
-     GITHUB STATS (STYLED)
+     TECH STACK ICONS (C, C++, Git, Python, LeetCode)
      ========================= -->
-<h2 align="center">🚀 GitHub Insights</h2>
+<h3 align="center">🧰 Tech Stack</h3>
+<p align="center">
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+       alt="C" width="40" height="40" />
+  &nbsp;&nbsp;
 
-<!-- Card container: table ব্যবহার করেছি যাতে GitHub-এ লে-আউট ভাঙে না -->
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&theme=radical"
-        alt="GitHub Stats"
-        height="180"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&theme=radical"
-        alt="Top Languages"
-        height="180"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&theme=radical"
-        alt="GitHub Streak"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+       alt="C++" width="40" height="40" />
+  &nbsp;&nbsp;
 
+  <!-- Git -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+       alt="Git" width="40" height="40" />
+  &nbsp;&nbsp;
+
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python" width="40" height="40" />
+  &nbsp;&nbsp;
+
+  <!-- LeetCode -->
+  <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.svg"
+       alt="LeetCode" width="40" height="40" />
+</p>
