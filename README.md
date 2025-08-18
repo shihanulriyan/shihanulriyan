@@ -26,10 +26,17 @@ int main() {
   </a>
 </h2>
 
-<!-- Overview Section -->
+<!-- =========================
+     OVERVIEW SECTION
+     ========================= -->
+<h2 align="center">🌟 Overview</h2>
+
 <p align="center">
-  💻 Passionate web developer | Problem solver | Continuous learner
-</p>
+  <samp>
+    💻 Passionate <b>Web Developer</b> <br/>
+    🧩 Creative <b>Problem Solver</b> <br/>
+    📚 Lifelong <b>Continuous Learner</b> <br/>
+  </samp
 
 - 💬 Ask me about **c c++ ,data structures and algorithms**
 
