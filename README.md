@@ -27,20 +27,14 @@ int main() {
 </h2>
 
 <!-- =========================
-     OVERVIEW SECTION WITH PROGRAMMER PNG
+     OVERVIEW TEXT (STYLED)
      ========================= -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-
-  <!-- Programmer PNG Image -->
-  <img src="https://raw.githubusercontent.com/DevTeco/programmer-avatar/main/programmer.png"
-       alt="Programmer" width="100" />
-
-  <!-- Overview Text -->
-  <p style="margin: 0; font-size: 16px;">
+<td style="padding-left: 15px; vertical-align: middle;">
+  <p align="center" style="font-weight: bold; font-size: 16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #0D1117;">
     💻 Passionate web developer | Problem solver | Continuous learner
   </p>
+</td>
 
-</div>
 
 
 - 💬 Ask me about **c c++ ,data structures and algorithms**
