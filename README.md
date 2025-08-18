@@ -31,7 +31,7 @@ int main() {
   💻 Passionate web developer | Problem solver | Continuous learner
 </p>
 
-- 💬 Ask me about **c++ ,data structures and algorithms**
+- 💬 Ask me about **c c++ ,data structures and algorithms**
 
 - 📫 How to reach me **shihanulriyan@gmail.com**
 
@@ -45,6 +45,8 @@ int main() {
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.svg" alt="LeetCode" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
