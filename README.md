@@ -27,16 +27,35 @@ int main() {
 </h2>
 
 <!-- =========================
-     OVERVIEW SECTION
+     OVERVIEW SECTION WITH IMAGE
      ========================= -->
-<h2 align="center">🌟 Overview</h2>
+<table align="center">
+  <tr>
+    <!-- Programmer/PC Image -->
+    <td>
+      <img src="https://raw.githubusercontent.com/iamsahebgurung/programmer-avatar/main/programmer.svg"
+           alt="Programmer" width="200" />
+    </td>
 
-<p align="center">
-  <samp>
-    💻 Passionate <b>Web Developer</b> <br/>
-    🧩 Creative <b>Problem Solver</b> <br/>
-    📚 Lifelong <b>Continuous Learner</b> <br/>
-  </samp
+    <!-- Overview Text + Badges -->
+    <td style="padding-left: 20px; vertical-align: top;">
+      <h2>🌟 Overview</h2>
+
+      <p>
+        💻 Passionate <b>Web Developer</b> <br/>
+        🧩 Creative <b>Problem Solver</b> <br/>
+        📚 Lifelong <b>Continuous Learner</b> <br/>
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFA116?style=for-the-badge&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Practice-Data%20Structures%20%26%20Algorithms-3776AB?style=for-the-badge&logo=leetcode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Love-Open%20Source-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 - 💬 Ask me about **c c++ ,data structures and algorithms**
 
