@@ -54,7 +54,6 @@ int main() {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40" height="40" alt="LeetCode"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Codeforces_logo.png" width="40" height="40" alt="Codeforces"/>
 </p>
 
 
