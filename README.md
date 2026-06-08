@@ -31,7 +31,7 @@ int main() {
      ========================= -->
 <td style="padding-left: 15px; vertical-align: middle;">
   <p align="center" style="font-weight: bold; font-size: 16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #0D1117;">
-    💻 Passionate web developer | Problem solver | Continuous learner
+    💻 Passionate App developer | Problem solver | Continuous learner
   </p>
 </td>
 
