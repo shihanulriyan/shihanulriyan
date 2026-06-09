@@ -71,8 +71,22 @@ int main() {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+<hr/>
+
+<!-- Online Judges -->
+<h2 align="center">🏆 Online Judge Profiles</h2>
+<p align="center">
+<a href="https://leetcode.com/u/shihanulriyan/"><img src="https://img.shields.io/badge/LeetCode-shihanulriyan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/shihanulriyan1122"><img src="https://img.shields.io/badge/Codeforces-shihanulriyan1122-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/shihanulriyan"><img src="https://img.shields.io/badge/HackerRank-shihanulriyan-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 <hr/>
