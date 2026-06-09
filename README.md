@@ -40,15 +40,16 @@ int main() {
 <!-- Connect -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-<a href="mailto:shihanulriyan@gmail.com"><img src="https://img.shields.io/badge/Email-shihanulriyan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shihanul-islam-rian-b4a934388/"><img src="https://img.shields.io/badge/LinkedIn-Shihanul%20Islam%20Rian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shihanulriyan@gmail.com"><img src="https://img.shields.io/badge/Email-shihanulriyan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shihanul-islam-rian-b4a934388/"><img src="https://img.shields.io/badge/LinkedIn-Shihanul%20Islam%20Rian-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 <p align="center">
-<a href="https://www.facebook.com/share/16ijP1T8Fq/"><img src="https://img.shields.io/badge/Facebook-Shihanul%20Islam%20Rian-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/shihanul_rian"><img src="https://img.shields.io/badge/Instagram-shihanul__rian-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://discord.com/users/">
-<img src="https://img.shields.io/badge/Discord-Rian | rian09714-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>   
+<a href="https://www.facebook.com/share/16ijP1T8Fq/"><img src="https://img.shields.io/badge/Facebook-Shihanul%20Islam%20Rian-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.instagram.com/shihanul_rian"><img src="https://img.shields.io/badge/Instagram-shihanul__rian-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+&nbsp;
+<a href="https://discord.com/users/rian09714"><img src="https://img.shields.io/badge/Discord-Rian%20|%20rian09714-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>
 
 <hr/>
@@ -56,11 +57,12 @@ int main() {
 <!-- Competitive Programming -->
 <h2 align="center">⚡ Competitive Programming Profiles</h2>
 <p align="center">
-<a href="https://codeforces.com/profile/shihanulriyan1122"><img src="https://img.shields.io/badge/Codeforces-shihanulriyan1122-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/shihanulriyan"><img src="https://img.shields.io/badge/HackerRank-shihanulriyan-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://leetcode.com/u/shihanulriyan/"><img src="https://img.shields.io/badge/LeetCode-shihanulriyan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/shihanulriyan1122"><img src="https://img.shields.io/badge/Codeforces-shihanulriyan1122-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/shihanulriyan"><img src="https://img.shields.io/badge/HackerRank-shihanulriyan-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/shihanulriyan/"><img src="https://img.shields.io/badge/LeetCode-shihanulriyan-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 </p>
-
 <hr/>
 
 <!-- Tech Stack -->
