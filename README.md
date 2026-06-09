@@ -85,18 +85,21 @@ int main() {
 
 <!-- GitHub Stats -->
 <h2 align="center">🚀 GitHub Insights</h2>
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB" height="180"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&background=0D1117&ring=FFA116&fire=FFA116&currStreakLabel=3776AB&sideNums=FFFFFF&currStreakNum=FFA116&sideLabels=3776AB&dates=AAAAAA" height="180"/>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=donut&hide=html&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=FFA116&border_color=FFA116&border_radius=10" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=FFA116&border_color=FFA116&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&background=0D1117&ring=FFA116&fire=FF6B35&currStreakLabel=FFA116&sideNums=FFFFFF&currStreakNum=FF6B35&sideLabels=FFA116&dates=888888&border=FFA116&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shihanulriyan&bg_color=0D1117&color=FFA116&line=FFA116&point=FF6B35&area=true&hide_border=false&border_color=FFA116&radius=10" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shihanulriyan&theme=onestar&no-frame=false&no-bg=false&margin-w=8&row=1" width="90%"/>
+</p>
