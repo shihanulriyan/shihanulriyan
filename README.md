@@ -26,7 +26,7 @@ int main() {
 </h2>
 
 <p align="center" style="font-weight: bold; font-size: 16px;">
-  💻 Aspiring App Developer | Java Enthusiast | Continuous Learner
+  💻 Aspiring App Developer | Problem Solver | Continuous Learner
 </p>
 
 - 🔭 Currently learning **Java, Dart, Flutter**
