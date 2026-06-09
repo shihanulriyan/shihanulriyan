@@ -46,7 +46,7 @@ int main() {
 <p align="center">
 <a href="https://www.facebook.com/share/16ijP1T8Fq/"><img src="https://img.shields.io/badge/Facebook-Shihanul%20Islam%20Rian-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/shihanul_rian"><img src="https://img.shields.io/badge/Instagram-shihanul__rian-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://discord.com/users/rian09714">
+<a href="https://discord.com/users/">
 <img src="https://img.shields.io/badge/Discord-Rian | rian09714-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>   
 </p>
