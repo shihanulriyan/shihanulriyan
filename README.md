@@ -25,11 +25,9 @@ int main() {
   </a>
 </h2>
 
-<td style="padding-left: 15px; vertical-align: middle;">
-  <p align="center" style="font-weight: bold; font-size: 16px;">
-    💻 Aspiring App Developer | Java Enthusiast | Continuous Learner
-  </p>
-</td>
+<p align="center" style="font-weight: bold; font-size: 16px;">
+  💻 Aspiring App Developer | Java Enthusiast | Continuous Learner
+</p>
 
 - 🔭 Currently learning **Java, HTML, CSS, JavaScript**
 - 🌱 Future goal: **Flutter & Android App Development**
@@ -37,81 +35,62 @@ int main() {
 - 📫 Reach me at **shihanulriyan@gmail.com**
 - ⚡ Fun fact: **I think I am under C++ construction 😄**
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
+---
 
-<a href="mailto:shihanulriyan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/share/16ijP1T8Fq/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shihanul-islam-rian-b4a934388/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/shihanul_rian">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<!-- Connect -->
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+<a href="mailto:shihanulriyan@gmail.com"><img src="https://img.shields.io/badge/Email-shihanulriyan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shihanul-islam-rian-b4a934388/"><img src="https://img.shields.io/badge/LinkedIn-Shihanul%20Islam%20Rian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+<p align="center">
+<a href="https://www.facebook.com/share/16ijP1T8Fq/"><img src="https://img.shields.io/badge/Facebook-Shihanul%20Islam%20Rian-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/shihanul_rian"><img src="https://img.shields.io/badge/Instagram-shihanul__rian-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-## 🛠️ Tech Stack
+<hr/>
 
-**📱 Mobile & App Development (Learning)**
+<!-- Competitive Programming -->
+<h2 align="center">⚡ Competitive Programming Profiles</h2>
+<p align="center">
+<a href="https://codeforces.com/profile/shihanulriyan1122"><img src="https://img.shields.io/badge/Codeforces-shihanulriyan1122-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/shihanulriyan"><img src="https://img.shields.io/badge/HackerRank-shihanulriyan-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://leetcode.com/u/shihanulriyan/"><img src="https://img.shields.io/badge/LeetCode-shihanulriyan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<hr/>
 
-**🌐 Web Development (Learning)**
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Languages and Tools</h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**💻 Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**🔧 Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
+<hr/>
 
 <!-- GitHub Stats -->
 <h2 align="center">🚀 GitHub Insights</h2>
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB"
-        alt="Top Languages"
-        height="180"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihanulriyan&layout=compact&hide=html&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB" height="180"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB"
-        alt="GitHub Stats"
-        height="180"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Shihanulriyan&show_icons=true&bg_color=0D1117&title_color=FFA116&text_color=FFFFFF&icon_color=3776AB" height="180"/>
     </td>
     <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&background=0D1117&ring=FFA116&fire=FFA116&currStreakLabel=3776AB&sideNums=FFFFFF&currStreakNum=FFA116&sideLabels=3776AB&dates=AAAAAA"
-        alt="GitHub Streak"
-        height="180"
-      />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shihanulriyan&background=0D1117&ring=FFA116&fire=FFA116&currStreakLabel=3776AB&sideNums=FFFFFF&currStreakNum=FFA116&sideLabels=3776AB&dates=AAAAAA" height="180"/>
     </td>
   </tr>
 </table>
