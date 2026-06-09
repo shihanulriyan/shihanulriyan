@@ -37,7 +37,7 @@ int main() {
 - 📫 Reach me at **shihanulriyan@gmail.com**
 - ⚡ Fun fact: **I think I am under C++ construction 😄**
 
- <h3 align="left">🔗 Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 
 <a href="mailto:shihanulriyan@gmail.com">
@@ -48,16 +48,15 @@ int main() {
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/shihanulriyan/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://www.linkedin.com/in/shihanul-islam-rian-b4a934388/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/shihanulriyan1122">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://www.instagram.com/shihanul_rian">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
----
 
 ## 🛠️ Tech Stack
 
