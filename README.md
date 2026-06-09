@@ -37,9 +37,26 @@ int main() {
 - 📫 Reach me at **shihanulriyan@gmail.com**
 - ⚡ Fun fact: **I think I am under C++ construction 😄**
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left"></p>
+ <h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
 
+<a href="mailto:shihanulriyan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/16ijP1T8Fq/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shihanulriyan/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/shihanulriyan1122">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ## 🛠️ Tech Stack
