@@ -25,17 +25,26 @@ int main() {
   </a>
 </h2>
 
-<p align="center" style="font-weight: bold; font-size: 16px;">
+<table>
+<tr>
+<td valign="top" width="55%">
+
+<p style="font-weight: bold; font-size: 16px;">
   💻 Aspiring App Developer | Problem Solver | Continuous Learner
 </p>
 
 - 🔭 Currently learning **Java, Dart, Flutter**
 - 🌱 Future goal: **Flutter & Android App Development**
-- 💬 Ask me about **C, C++, Pytho, Java, Data Structures & Algorith**
+- 💬 Ask me about **C, C++, Python, Java, Data Structures & Algorithms**
 - 📫 Reach me at **shihanulriyan@gmail.com**
 - ⚡ Fun fact: **I think I am under C++ construction 😄**
 
----
+</td>
+<td valign="top" width="45%">
+<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%"/>
+</td>
+</tr>
+</table>
 
 <!-- Connect -->
 <h2 align="center">🌐 Connect with Me</h2>
