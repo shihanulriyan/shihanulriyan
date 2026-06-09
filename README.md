@@ -29,9 +29,9 @@ int main() {
   💻 Aspiring App Developer | Java Enthusiast | Continuous Learner
 </p>
 
-- 🔭 Currently learning **Java, HTML, CSS, JavaScript**
+- 🔭 Currently learning **Java, Dart, Flutter**
 - 🌱 Future goal: **Flutter & Android App Development**
-- 💬 Ask me about **C, C++, Java, Data Structures**
+- 💬 Ask me about **C, C++, Pytho, Java, Data Structures & Algorith**
 - 📫 Reach me at **shihanulriyan@gmail.com**
 - ⚡ Fun fact: **I think I am under C++ construction 😄**
 
@@ -79,15 +79,7 @@ int main() {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
-<hr/>
 
-<!-- Online Judges -->
-<h2 align="center">🏆 Online Judge Profiles</h2>
-<p align="center">
-<a href="https://leetcode.com/u/shihanulriyan/"><img src="https://img.shields.io/badge/LeetCode-shihanulriyan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codeforces.com/profile/shihanulriyan1122"><img src="https://img.shields.io/badge/Codeforces-shihanulriyan1122-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/shihanulriyan"><img src="https://img.shields.io/badge/HackerRank-shihanulriyan-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
 
 <hr/>
 
