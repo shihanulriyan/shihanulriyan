@@ -1,12 +1,3 @@
-
-<!-- GitHub Profile Cover -->
-<p align="center">
-  <img src="./cover.png" alt="RIAN Profile Cover" width="100%">
-</p>
-
-<br/>
-
-
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
