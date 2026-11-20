@@ -1,11 +1,11 @@
 
+<!-- GitHub Profile Cover -->
 <p align="center">
-  <img src="./wide_dark_futuristic_neon_blue_themed_developer.png"
-       alt="Rian GitHub Profile Cover"
-       width="100%" />
+  <img src="./cover.png" alt="RIAN Profile Cover" width="100%">
 </p>
 
 <br/>
+
 
 ```cpp
 #include <bits/stdc++.h>
