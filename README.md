@@ -1,4 +1,8 @@
 ```cpp
+<p align="center">
+  <img src="wide_dark_futuristic_neon_blue_themed_developer.png" width="100%"/>
+</p>
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
