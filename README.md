@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Rian's Banner" width="100%">
+</p>
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
